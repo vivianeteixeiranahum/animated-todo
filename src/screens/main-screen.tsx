@@ -10,12 +10,12 @@ import NavBar from '../components/navbar'
 const initialData = [
   {
     id: shortid.generate(),
-    subject: 'Comprar ingresso para o cinema',
+    subject: 'Dançar no festival sexta',
     done: false
   },
   {
     id: shortid.generate(),
-    subject: 'Estudar react native amanhã',
+    subject: 'Colocar o caderno da escola em dia',
     done: false
   }
 ]
